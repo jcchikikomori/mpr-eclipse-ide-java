@@ -1,1 +1,1 @@
-# mpr-eclipse-ide-java
+# mpr-eclipse-ide-java-java

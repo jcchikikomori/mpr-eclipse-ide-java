@@ -1,0 +1,4 @@
+*.deb
+eclipse-java-*.tar.gz
+pkg/
+src/

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=2022.06
+Type=Application
+Name=Eclipse IDE for Java Developers 2022.06
+Comment=The essential tools for any Java developer
+Exec=/usr/bin/eclipse-ide-java
+Icon=eclipse-ide-java
+Comment=Eclipse IDE for Java Developers
+Categories=Development;IDE;
+Terminal=false
+StartupNotify=true
+StartupWMClass=eclipse-ide-java

@@ -1,0 +1,18 @@
+generated-by = jcchikikomori
+
+pkgbase = eclipse-ide-java
+	pkgdesc = The essential tools for any Java developer, including a Java IDE, a Git client, XML Editor, Mylyn, Maven and Gradle integration
+	pkgver = 2022.06
+	pkgrel = 1
+	url = https://www.eclipse.org/downloads/
+	arch = amd64
+	license = MIT
+	depends = default-jre
+	depends = libswt-gtk-4-jni
+	options = !strip
+	source = http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/technology/epp/downloads/release/2022-06/R/eclipse-java-2022-06-R-linux-gtk-x86_64.tar.gz
+	source = eclipse-ide-java.desktop
+	sha512sums = DE5F4DC8AC87D6BE77FEE0D2F3CC447318FD9247551818CDA80EFF9CB330B60D
+	sha256sums = 4DEB974D9742545C0B623482965A3AAF2E4D81CB01C0C3AE2EA9F706176ABA15
+
+pkgname = eclipse-ide-java
